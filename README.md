@@ -2,7 +2,7 @@
 
 🧠 Computer Science Graduate from Sathyabama University<br/>
 💫 AI/ML enthusiast & Software Developer<br/>
-🤖 I love working on Generative AI systems<br/>
+🤖 I love to play with AI tools and build Generative AI systems<br/>
 
 
 # 💻 Tech Stack:
