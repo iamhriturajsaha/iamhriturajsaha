@@ -1,7 +1,7 @@
 ## Hi, I'm Hrituraj 🙂
 
-🧠 Computer Science student at Sathyabama University<br/>
-💫 AI/ML enthusiast & developer<br/>
+🧠 Computer Science Graduate from Sathyabama University<br/>
+💫 AI/ML enthusiast & Software Developer<br/>
 🤖 I love working on Generative AI systems<br/>
 
 
