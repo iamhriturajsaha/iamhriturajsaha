@@ -1,8 +1,10 @@
-## Hi, I'm Hrituraj 🙂
+## Hello, I'm HRITURAJ 🙂
 
-🧠 Computer Science Graduate from Sathyabama University<br/>
-💫 AI/ML enthusiast & Software Developer<br/>
-🤖 I love to play with AI tools and build Generative AI systems<br/>
+🎓 Computer Science Graduate from Sathyabama University<br/>
+🧠 Passionate about Artificial Intelligence, Machine Learning & Generative AI<br/>
+💻 Software Developer who loves turning ideas into scalable solutions<br/>
+🤖 Building intelligent systems with the power of modern AI tools<br/>
+🌟 Always learning, always creating<br/>
 
 
 # 💻 Tech Stack:
