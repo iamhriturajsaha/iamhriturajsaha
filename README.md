@@ -1,4 +1,4 @@
-## Hello, I'm HRITURAJ 🙂
+## Hello, I'm HRITURAJ 😃
 
 🎓 Computer Science Graduate from Sathyabama University<br/>
 🧠 Passionate about Artificial Intelligence, Machine Learning & Generative AI<br/>
