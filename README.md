@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Hrituraj Saha</h1>
 <h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems at Scale</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%20Engineer;Machine%20Learning%20Specialist;Full%20Stack%20Developer;Data%20Driven%20Problem%20Solver&center=true&width=600&height=50">
 </p>
@@ -41,11 +40,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamhriturajsaha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamhriturajsaha&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhriturajsaha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -71,7 +68,6 @@
 
 # 💡 **Personal Philosophy**
 > “I don’t just write code — I build intelligent systems that solve real-world problems.”
-
 <p align="center">
   ⭐️ If you like my work, consider following!
 </p>
