@@ -1,4 +1,4 @@
-<h1 align="center">Hrituraj Saha</h1>
+<h1 align="center">Hi👋, I'm Hrituraj Saha</h1>
 <h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems at Scale</h3>
 
 <p align="center">
@@ -74,10 +74,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hrituraj-s-5794b53a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:iamhriturajsaha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
