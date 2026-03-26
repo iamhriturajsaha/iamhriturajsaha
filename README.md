@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%20Engineer;Machine%20Learning%20Specialist;Full%20Stack%20Developer;Data%20Driven%20Problem%20Solver&center=true&width=600&height=50">
 </p>
 
-<p align="center">
-  <a href="https://github.com/iamhriturajsaha">
-    <img src="https://komarev.com/ghpvc/?username=iamhriturajsaha&label=Profile%20Views&color=blue&style=flat" />
-  </a>
-</p>
-
 # 🧠 **About Me**
 - 🎓 Computer Science Grad.
 - 🤖 Specialized in Artificial Intelligence, Machine Learning & Generative AI.
@@ -35,8 +29,6 @@
 ### 🌐 Backend & Data
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</p>
-
 </p>
 
 ### ☁️ Cloud & Tools
@@ -73,7 +65,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrituraj-s-5794b53a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
