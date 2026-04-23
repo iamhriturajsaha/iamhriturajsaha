@@ -61,7 +61,7 @@
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrituraj-s-5794b53a0" target="_blank">
+  <a href="https://www.linkedin.com/in/hrituraj-saha-5794b53a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
