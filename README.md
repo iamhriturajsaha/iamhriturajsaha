@@ -36,19 +36,12 @@
 </p>
 
 # 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhriturajsaha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamhriturajsaha&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhriturajsaha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 # 📈 **Contribution Graph**
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamhriturajsaha&theme=tokyo-night&hide_border=true" />
 </p>
@@ -59,7 +52,6 @@
 - ☁️ Scaling applications using Cloud (AWS/GCP).
 
 # 📫 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hrituraj-saha-5794b53a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
